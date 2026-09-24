@@ -1,0 +1,35 @@
+# Sistema de Gestión de Tienda
+
+Proyecto académico desarrollado para practicar programación, manejo de datos y control de versiones.
+
+## Descripción
+
+El proyecto consiste en desarrollar un sistema básico para la gestión de una tienda.
+
+El sistema permitirá administrar productos, controlar el inventario y registrar ventas.
+
+## Funcionalidades
+
+- Registro de productos
+- Consulta de productos
+- Actualización de productos
+- Control de inventario
+- Registro de ventas
+- Actualización automática del inventario
+- Consulta del historial de ventas
+
+## Tecnologías
+
+- C#
+- .NET
+- SQL
+- Git
+- GitHub
+
+## Estado del proyecto
+
+En desarrollo.
+
+## Autor
+
+Jhon Heyder Tejada Diaz
